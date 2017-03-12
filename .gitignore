@@ -20,3 +20,5 @@ testem.log
 #ide
 .idea/
 .DS_Store
+
+/technet

@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "technet": "node --harmony-async-await technet.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
